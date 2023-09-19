@@ -1,5 +1,9 @@
 # Blockchain Club Toolkit
 
+![baf_twitter_header](https://github.com/bafnetwork/Blockchain-Club-Toolkit/assets/77428742/98309f3c-6b65-4f40-96ef-32d335517bce)
+
+---
+
 The Blockchain Club Toolkit (BCT) provides student groups with a playbook for building and running their club at every stage. This is an open-source public-good initiative developed by the [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)
 
 ---
